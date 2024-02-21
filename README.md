@@ -17,3 +17,10 @@ Rodar maven
    mvn clean install
    mvn compile exec:java -Dexec.mainClass="org.project.ManageDado"
 ```
+
+Sem JPA
+https://www.tutorialspoint.com/hibernate/hibernate_examples.htm
+
+Com JPA
+https://dzone.com/articles/persisting-entity-classes
+https://thorben-janssen.com/mapping-definitions-jpa-hibernate-annotations-xml/

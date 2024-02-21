@@ -26,4 +26,9 @@ public class DadosTable {
     public void setDado1(String dado1) {
         this.dado1 = dado1;
     }
+
+    @Override
+    public String toString() {
+        return "DadosTable Id:="+id+" DadosTable dado1:="+dado1;
+    }
 }
